@@ -1,5 +1,8 @@
 # Curl Server Manipulation (CSM)
 
+![a](./Images/CurlSKULL.gif)
+
+
 This tool can be used to manipulate setup data for curl to configure settings like public key for ssl public key pinning, URL, post data and many more.
 
 ## How does this work?
