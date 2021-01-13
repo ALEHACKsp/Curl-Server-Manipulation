@@ -21,7 +21,7 @@ This tool is very easy to utilize as you only need to build it in (x64 release) 
 
 ## HELP IM STUCK AAAAA!!!!!
 
-Please don't DM me on discord with really stupid questions because I will block you.
+Please don't DM me on discord with really stupid questions because I will block you from my dms.
 
 
 ## HELP I'm getting MH_ERROR_MEMORY_PROTECT error when injecting!
